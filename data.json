@@ -2,11 +2,11 @@
     {
         "id":1,
         "name":"Goku",
-        "imageUrl":"https://heroduran.github.io/pngmp4singletest/goku1.png"
+        "imageUrl":"https://heroduran.github.io/pngmp4singletest/goku1.jpg"
     },
     {
         "id":2,
         "name":"Vegeta",
-        "imageUrl":"https://heroduran.github.io/pngmp4singletest/vegeta1.png"
+        "imageUrl":"https://heroduran.github.io/pngmp4singletest/vegeta1.jpg"
     }
 ]
