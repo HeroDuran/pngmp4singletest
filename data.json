@@ -3,12 +3,12 @@
         "id":1,
         "name":"Goku",
         "color":"Orange",
-        "image_Url":"https://heroduran.github.io/pngmp4singletest/goku1.jpg"
+        "image_url":"https://heroduran.github.io/pngmp4singletest/goku1.jpg"
     },
     {
         "id":2,
         "name":"Vegeta",
         "color":"Blue",
-        "image_Url":"https://heroduran.github.io/pngmp4singletest/vegeta1.jpg"
+        "image_url":"https://heroduran.github.io/pngmp4singletest/vegeta1.jpg"
     }
 ]
